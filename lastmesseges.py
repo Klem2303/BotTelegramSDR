@@ -1,6 +1,6 @@
+# -*- encoding: utf-8 -*-
 import datetime
 import requests
-
 
 class BotHandler:
     def __init__(self, token):
